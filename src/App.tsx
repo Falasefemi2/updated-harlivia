@@ -7,6 +7,7 @@ import LandingAgric from "./LandingpageAgric";
 import LandingCargo from "./LandingpageCargo";
 import LandingProperties from "./LandingpageProperties";
 import LandingEnergy from "./LandingpageEnergy";
+import Blogmain from "./components/blog/blogmain";
 import { PolicyPage } from "./PolicyPage";
 import TermOfUse from "./components/termOfUse";
 
