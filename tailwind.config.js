@@ -46,14 +46,6 @@ export default {
       fontFamily: {
         neue: ["Neue Haas Display", "sans-serif"],
       },
-      borderRadius: {
-        // Use the radius variables directly
-        DEFAULT: "var(--radius)",
-        sm: "var(--radius-sm)",
-        md: "var(--radius-md)",
-        lg: "var(--radius-lg)",
-        xl: "var(--radius-xl)",
-      },
     },
   },
   plugins: [],
